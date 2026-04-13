@@ -25,4 +25,4 @@ Cihazları olduğu gibi kullanmayı sevmeyenler için... Android root işlemleri
 <p align="center">
   <i>"Keep it simple, keep it hosted."</i>
 </p>
-AA
+AAA
